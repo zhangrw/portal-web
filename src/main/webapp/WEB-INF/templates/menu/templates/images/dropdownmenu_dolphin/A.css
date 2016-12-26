@@ -1,0 +1,104 @@
+.dropdownmenu_dolphin{
+   clear:both;
+   padding:0px;
+   white-space:nowrap;
+   overflow:hidden;
+   width:100%;
+   color:#fff;   
+background:url(nav_bg_t.jpg) no-repeat left bottom;
+padding-left:20px;
+
+
+}
+
+.wall{
+   margin:0px 0px 0px 0px;
+   white-space:nowrap;
+   overflow:hidden;
+   color:#fff;
+}
+
+.dorpmenu_dolphin{
+   float:left;
+   color:#fff;
+   height:33px;
+   text-align:center;
+   padding:0px;
+   margin:0px;
+   line-height:33px;   
+
+}
+
+a.dorpmenu_dolphin:link,a.dorpmenu_dolphin:visited,a.dorpmenu_dolphin:active {
+ color: #FFF;
+   text-decoration: none;
+   height:33px;
+/*background:url(00.jpg) no-repeat left bottom;*/
+   font:13px/72px bold Arial,Helvetica,sans-serif;
+line-height:33px;
+   margin:0px;
+   font-weight:bold;
+   width:110px;
+   text-align:center;
+}
+
+a.dorpmenu_dolphin:hover {
+   color: #fc8301;
+
+   text-decoration: none;
+   height:33px;
+/*background:url(00.jpg) no-repeat left bottom;*/
+   font:13px/72px bold Arial,Helvetica,sans-serif;
+line-height:33px;
+   margin:0px;
+   font-weight:bold;
+   width:110px;
+   text-align:center;
+} 
+
+div.subdorpmenu_dolphin{
+   display:none;
+   position:absolute;padding-left:4px;
+}
+
+div.subdorpmenu_dolphin ul{
+ _width:100px;
+   color:#fff;
+   background:#B29947;
+   border:solid 1px #6C6E6B;border-top:0px;
+   margin:0px;
+   background:url(bg2.jpg) repeat 0px 0px;
+   margin-left:10px;
+}
+
+div.subdorpmenu_dolphin li{
+   list-style-type:none;
+   text-align:center;
+   color:#fff;
+   height:25px;
+   line-height:25px;
+}
+
+div.subdorpmenu_dolphin li.current{
+   color:#fff;
+   height:25px;line-height:25px;
+}
+
+div.subdorpmenu_dolphin a.subdorpmenu_dolphin:link,a.subdorpmenu_dolphin:visited,a.subdorpmenu_dolphin:active{
+   display:block;
+   color:#fff;
+   text-decoration: none;
+   font:13px/26px bold Arial,Helvetica,sans-serif; padding-left:40px;
+   padding-right:40px;
+   height:25px;
+   line-height:25px;
+}
+
+a.subdorpmenu_dolphin:hover {
+   display:block;
+   color: #fc8301; 
+   text-decoration: none;
+   font:13px/26px bold Arial,Helvetica,sans-serif;
+     height:25px;
+   line-height:25px;
+}

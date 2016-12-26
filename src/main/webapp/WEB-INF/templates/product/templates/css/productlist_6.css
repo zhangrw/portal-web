@@ -1,0 +1,30 @@
+DIV.productlist_6 {
+	OVERFLOW: hidden; WHITE-SPACE: nowrap; FLOAT: left; TEXT-ALIGN: left; MARGIN: 0px 10px 10px 0px
+}
+DIV.productlist_6 DIV.fang {
+	MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+DIV.productlist_6 DIV.picFit {
+	OVERFLOW: hidden
+}
+DIV.productlist_6 DIV.picFit IMG {
+	
+}
+DIV.productlist_6 A.prodtitle:link {
+	MARGIN-BOTTOM: 2px; COLOR: #000; FONT: 12px/20px Arial, Helvetica, sans-serif; TEXT-DECORATION: none; DISPLAY: block
+}
+DIV.productlist_6 A.prodtitle:visited {
+	MARGIN-BOTTOM: 2px; COLOR: #000; FONT: 12px/20px Arial, Helvetica, sans-serif; TEXT-DECORATION: none; DISPLAY: block
+}
+DIV.productlist_6 A.prodtitle:active {
+	MARGIN-BOTTOM: 2px; COLOR: #000; FONT: 12px/20px Arial, Helvetica, sans-serif; TEXT-DECORATION: none; DISPLAY: block
+}
+DIV.productlist_6 A.prodtitle:hover {
+	MARGIN-BOTTOM: 2px; COLOR: #fc8301; FONT: 12px/20px Arial, Helvetica, sans-serif; TEXT-DECORATION: underline; DISPLAY: block
+}
+DIV.productlist_6 SPAN.memo {
+	WORD-BREAK: break-all; COLOR: #000; FONT: 12px/20px Arial, Helvetica, sans-serif
+}
+DIV.productlist_6 SPAN.prop {
+	WORD-BREAK: break-all; COLOR: #000; FONT: 12px/20px Arial, Helvetica, sans-serif
+}

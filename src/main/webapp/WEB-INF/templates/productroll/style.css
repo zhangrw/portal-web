@@ -1,0 +1,81 @@
+DIV#search {
+	TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+DIV#search UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV#nav {
+	PADDING-LEFT: 36px; COLOR: #636363
+}
+DIV#nav A {
+	COLOR: #636363
+}
+DIV#search LI {
+	PADDING-BOTTOM: 10px; LIST-STYLE-TYPE: none; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; FONT: 14px/16px Arial, Helvetica, sans-serif; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+DIV#search A:link {
+	FONT: 14px Arial, Helvetica, sans-serif; COLOR: #000
+}
+DIV#search A:visited {
+	FONT: 14px Arial, Helvetica, sans-serif; COLOR: #000
+}
+DIV#search A:active {
+	FONT: 14px Arial, Helvetica, sans-serif; COLOR: #000
+}
+DIV#search A:hover {
+	FONT: 14px Arial, Helvetica, sans-serif; COLOR: #000; TEXT-DECORATION: underline
+}
+DIV#search .title {
+	WIDTH: 500px; FLOAT: left
+}
+DIV#search .keyword {
+	FONT: 16px Arial, Helvetica, sans-serif; COLOR: #000; TEXT-DECORATION: underline
+}
+DIV#search .bodykeyword {
+	COLOR: #000
+}
+DIV#search .time {
+	WIDTH: 105px; PADDING-RIGHT: 4px; FONT: 12px/20px Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; FLOAT: right; OVERFLOW: hidden
+}
+DIV#search .memo {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 500px; PADDING-RIGHT: 0px; FONT: 12px/20px Arial, Helvetica, sans-serif; FLOAT: left; PADDING-TOP: 10px
+}
+DIV#search .showlink {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; WIDTH: 500px; PADDING-RIGHT: 0px; FONT: 12px Arial, Helvetica, sans-serif; FLOAT: left; COLOR: #fc8200; PADDING-TOP: 5px
+}
+DIV#showpages {
+	PADDING-BOTTOM: 0px; MARGIN: 20px 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FONT: 12px Arial,Helvetica,sans-serif; WHITE-SPACE: nowrap; HEIGHT: 30px; COLOR: #000; CLEAR: both; PADDING-TOP: 0px
+}
+DIV#pagesinfo {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; FONT: 12px Arial,Helvetica,sans-serif; WHITE-SPACE: nowrap; FLOAT: left; COLOR: #000; PADDING-TOP: 3px
+}
+DIV#pages {
+	PADDING-RIGHT: 8px; FONT: 12px Arial,Helvetica,sans-serif; WHITE-SPACE: nowrap; FLOAT: right; COLOR: #000
+}
+DIV#pages UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT: 12px Arial,Helvetica,sans-serif; COLOR: #000; PADDING-TOP: 0px
+}
+DIV#pages A:link {
+	FONT: 12px Arial,Helvetica,sans-serif; COLOR: #000; TEXT-DECORATION: none
+}
+DIV#pages A:visited {
+	FONT: 12px Arial,Helvetica,sans-serif; COLOR: #000; TEXT-DECORATION: none
+}
+DIV#pages A:active {
+	FONT: 12px Arial,Helvetica,sans-serif; COLOR: #000; TEXT-DECORATION: none
+}
+DIV#pages A:hover {
+	FONT: 12px Arial,Helvetica,sans-serif; COLOR: #ab2c2c; TEXT-DECORATION: none
+}
+DIV#pages LI {
+	PADDING-BOTTOM: 2px; LIST-STYLE-TYPE: none; MARGIN: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT: 12px Arial,Helvetica,sans-serif; WHITE-SPACE: nowrap; FLOAT: left; COLOR: #000; PADDING-TOP: 2px
+}
+DIV#pages LI.pagesnow {
+	FONT: 12px Arial,Helvetica,sans-serif; WHITE-SPACE: nowrap; COLOR: #000
+}
+DIV#pages LI.pbutton {
+	FONT: 12px Arial,Helvetica,sans-serif; WHITE-SPACE: nowrap; COLOR: #000
+}
+DIV#pages LI.opt {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; WHITE-SPACE: nowrap; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}

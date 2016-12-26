@@ -1,0 +1,30 @@
+DIV.productsearchformzone {
+	PADDING-BOTTOM: 34px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; HEIGHT: 100%; PADDING-TOP: 5px
+}
+DIV.productsearchformzone DIV.productsearchform {
+	LINE-HEIGHT: 19px; MARGIN-TOP: 4px; HEIGHT: 20px
+}
+DIV.productsearchformzone DIV.productsearchform .inputtext {
+	BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; LINE-HEIGHT: 17px; HEIGHT: 18px; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid
+}
+DIV.productsearchformzone DIV.productsearchform2 {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 19px; MARGIN-TOP: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 20px; PADDING-TOP: 0px
+}
+DIV.productsearchformzone DIV.productsearchform .box {
+	BORDER-BOTTOM: #e3e9ef 1px solid; BORDER-LEFT: #e3e9ef 1px solid; FONT-FAMILY: "verdna"; COLOR: #505050; FONT-SIZE: 10pt; BORDER-TOP: #e3e9ef 1px solid; BORDER-RIGHT: #e3e9ef 1px solid
+}
+DIV.productsearchformzone DIV.productsearchform .selectBoxSelectedArea {
+	LINE-HEIGHT: 17px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 3px; COLOR: #505050; FONT-SIZE: 12px; PADDING-TOP: 1px
+}
+DIV.productsearchformzone DIV.productsearchform .selectBoxSelectedAreaFocus {
+	LINE-HEIGHT: 17px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 3px; COLOR: #333333; FONT-SIZE: 12px; PADDING-TOP: 1px
+}
+DIV.productsearchformzone DIV.productsearchform .selectBoxOption {
+	LINE-HEIGHT: 17px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 3px; COLOR: #505050; FONT-SIZE: 12px; PADDING-TOP: 2px
+}
+DIV.productsearchformzone DIV.productsearchform .selectBoxOptionOver {
+	LINE-HEIGHT: 17px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 3px; COLOR: #333333; FONT-SIZE: 12px; PADDING-TOP: 2px
+}
+DIV.productsearchformzone DIV.productsearchform .selectBoxOptionInnerLayer {
+	SCROLLBAR-ARROW-COLOR: #838383; BORDER-BOTTOM: #e3e9ef 1px solid; BORDER-LEFT: #e3e9ef 1px solid; SCROLLBAR-FACE-COLOR: #ffffff; BACKGROUND-COLOR: #ffffff; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #b4b4b4; SCROLLBAR-SHADOW-COLOR: #b4b4b4; OVERFLOW: auto; BORDER-TOP: #e3e9ef 1px solid; SCROLLBAR-TRACK-COLOR: #eaeaea; BORDER-RIGHT: #e3e9ef 1px solid; SCROLLBAR-3DLIGHT-COLOR: #ffffff
+}
